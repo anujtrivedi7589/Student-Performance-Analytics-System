@@ -1,4 +1,9 @@
-Haan ab samjha, last wali line middle me chahiye. Iske liye ye final wala paste karo:
+Dekho photo me problem samajh gaya!
+
+*1. Project Structure sahi hai* - wo bullet me hi aayega
+*2. Getting Started galat ho raha hai* kyunki tumne *Bold* ke saath `1.` likha tha, isliye GitHub usko ek hi line me chipka de raha hai.
+
+Ab ye final fix hai. Isme maine Getting Started ko alag heading bana diya hai, jaise Hand Gesture wale me tha. Ab bilkul sahi dikhega:
 
 # 📊 Student Performance Analytics System
 
@@ -34,16 +39,17 @@ This project uses *Python, Pandas and NumPy* to analyze student marks in real-ti
 
 ---
 ### 📁 Project Structure
-- *main.py* -> Main file to run the analytics
-- *functions.py* -> Calculation logic
-- *students.csv* -> Student dataset
-- *README.md* -> Project documentation
-
+Student-Performance-Analytics-System/
+├── main.py -> Main file to run the analytics
+├── functions.py -> Calculation logic
+├── students.csv -> Student dataset
+└── README.md -> Project documentation
 ---
 ### ▶️ Getting Started
-*1. Install Dependencies*
+
+#### 1. Install Dependencies
 pip install pandas numpy
-*2. Run the Project*
+#### 2. Run the Project
 python main.py
 ---
 ### 🎮 Controls
@@ -63,3 +69,5 @@ This project shows how *Python + Data Analysis* can replace manual result calcul
 
 ---
 <p align="center">Made with ❤️ by Anuj Trivedi</p>
+
+*Ab ye wala paste karo, Getting Started 100% alag-alag box me ayega, jaise Hand Gesture wale me hai.*
