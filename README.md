@@ -116,11 +116,11 @@ Terminal output of `python main.py`:
 
 **Output 1 - Student data and start of the performance table**
 
-![Output 1](screenshots/output1.png)
+![Output 1](output1.jpeg)
 
 **Output 2 - Performance table, final outcome and top 3 performers**
 
-![Output 2](screenshots/output2.png)
+![Output 2](output2.jpeg)
 
 The final outcome shows a class average of **68.60**, highest average **85.8 (Mohit Singh)**, lowest average **51.6 (Neha Verma)**, **JavaScript** as the best-performing subject, and **Mohit Singh, Arjun Mehta and Kavya Jain** as the top 3 performers. All 20 students passed.
 
